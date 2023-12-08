@@ -1,0 +1,32 @@
+body{
+background-image:url("https://wallpapers.net/web/wallpapers/macro-image-of-camera-lens-hd-wallpaper/5120x2160.jpg");
+background-repeat: no-repeat;
+background-size:cover;
+background-position: center;
+}
+#H1{
+    font-family: "Rajdhani";
+    color:antiquewhite;
+    background-color: rgb(153, 117, 71);
+    padding : 20px;
+    border-radius: 12px;
+}
+#b1{
+    padding:10px;
+    background-color:rgb(153, 117, 71);
+    border-radius: 12px;
+    color:antiquewhite;
+    font-family:Rajdhani;
+    font-size: 20px;
+    width:100px;
+}
+#h2{
+    padding:10px;
+    background-color:rgb(153, 117, 71);
+    border-radius: 12px;
+    color:antiquewhite;
+    font-family:Rajdhani;
+    font-size: 20px;
+    width:300px;
+}
+ 
